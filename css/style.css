@@ -1,0 +1,52 @@
+.wrapper{
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position:absolute;
+}
+
+.cinza{
+    width: 100%;
+    height: 15%;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #cbcbcb;
+}
+
+.amarela{
+    width: 15%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #ecd44c;
+}
+
+.azul{
+    width: 15%;
+    height: 85%;
+    left: 0;
+    top: 0;
+    position:absolute;
+    background-color: #505ed4;
+}
+
+.verde{
+    width: 85%;
+    height: 85%;
+    right: 0;
+    top: 15%;
+    position:absolute;
+    background-color: #5ff057;
+}
+
+.vermelha{
+    width: 100%;
+    height: 5%;
+    right: 0;
+    bottom: 0;
+    position:absolute;
+    background-color: #ee477f;
+}
