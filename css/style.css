@@ -6,12 +6,13 @@
     position:absolute;
 }
 
-.logo2{
-    width: 100%;
+.titulo{
+    width: 85%;
     height: 15%;
-    left: 0;
+    right: 120px;
     top: 0;
     position:absolute;
+    font-size: 30px;
 }
 
 .logo{
@@ -22,22 +23,25 @@
     position:absolute;
 }
 
-.azul{
+.menu{
     width: 15%;
     height: 85%;
     left: 0;
     top: 15%;
     position:absolute;
-    background-color: #505ed4;
+    background-image: url(menu.jpg);
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    background-size: contain;
 }
 
-.verde{
+.tudo{
     width: 85%;
     height: 85%;
     right: 0;
     top: 15%;
     position:absolute;
-    background-color: #5ff057;
+
 }
 
 .rodapé{
