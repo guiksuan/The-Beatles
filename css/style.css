@@ -4,6 +4,7 @@
     left: 0;
     top: 0;
     position:absolute;
+    background-color: #e2e2e2;
 }
 
 .barra{
@@ -30,7 +31,7 @@
     top: 20px;
     font-weight: 1000;
     font-family: 'Montserrat';
-    font-size: 40px;
+    font-size: 80px;
     text-align: center;
     line-height: 37px;
     text-indent: 20px;
@@ -48,11 +49,35 @@
     position: absolute;
     width: 200px;
     height: 100px;
-    left: 4%;
+    left: 2%;
     top: 120px;
     font-family: 'Fraunces';
     font-size: 20px;
     color: #ffffff; 
+    text-decoration: none;
+}
+
+a:link{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+.integrantes{
+    position: absolute;
+    width: 850px;
+    left: -370px;
+    top: 88px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
 }
 
 .texto1{
@@ -81,6 +106,7 @@
     left: 530px;
     width: 200px;
     height: 200px;
+    border-style: solid;
 }
 
 .album3{
@@ -89,6 +115,7 @@
     left: 830px;
     width: 200px;
     height: 200px;
+    border-style: solid;
 }
 
 .album4{
@@ -97,4 +124,173 @@
     left: 1130px;
     width: 200px;
     height: 200px;
+    border-style: solid;
+}
+
+.texto2{
+    position: absolute;
+    width: 850px;
+    left: -90px;
+    top: 280px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.texto3{
+    position: absolute;
+    width: 850px;
+    left: -90px;
+    top: 510px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.texto4{
+    position: absolute;
+    width: 850px;
+    left: 209px;
+    top: 280px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.texto5{
+    position: absolute;
+    width: 850px;
+    left: 209px;
+    top: 510px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.texto6{
+    position: absolute;
+    width: 850px;
+    left: 509px;
+    top: 280px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.texto7{
+    position: absolute;
+    width: 850px;
+    left: 509px;
+    top: 510px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.texto8{
+    position: absolute;
+    width: 850px;
+    left: 809px;
+    top: 280px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.texto9{
+    position: absolute;
+    width: 850px;
+    left: 809px;
+    top: 510px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+/* a partir daqui começa à historia.html*/
+
+.banda{
+    position: absolute;
+    top: 230px;
+    left: 230px;
+    width: 350px;
+    height: 300px;
+}
+
+.texto10{
+    position: absolute;
+    width: 750px;
+    left: 600px;
+    top: 220px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    color: #000000;
+}
+
+/* a partir daqui começa o jonh.html*/
+
+.jonh{
+    position: absolute;
+    top: 210px;
+    left: 230px;
+    width: 350px;
+    height: 350px;
+}
+
+.texto11{
+    position: absolute;
+    width: 660px;
+    left: 645px;
+    top: 230px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 27px;
+    color: #000000;
+}
+
+/* a partir daqui começa o george.html*/
+
+.george{
+    position: absolute;
+    top: 210px;
+    left: 230px;
+    width: 350px;
+    height: 350px;
+}
+
+/* a partir daqui começa o paul.html*/
+
+.paul{
+    position: absolute;
+    top: 210px;
+    left: 230px;
+    width: 350px;
+    height: 350px;
+}
+
+/* a partir daqui começa o ringo.html*/
+
+.ringo{
+    position: absolute;
+    top: 210px;
+    left: 230px;
+    width: 350px;
+    height: 350px;
 }
