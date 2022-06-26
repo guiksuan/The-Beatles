@@ -4,6 +4,7 @@
     left: 0;
     top: 0;
     position:absolute;
+    background-color: #a53420;
 }
 
 .barra{
@@ -42,4 +43,55 @@
     top: 80px;
     width: 200px;
     height: 568px;
+}
+
+.menu-front{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    left: 4%;
+    top: 120px;
+    font-family: 'Fraunces';
+    font-size: 20px;
+    color: #ffffff; 
+}
+
+.texto1{
+    position: absolute;
+    width: 850px;
+    left: 330px;
+    top: 130px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    text-align: center;
+    color: #a948c7;
+}
+
+.album1{
+    position: absolute;
+    top: 1000px;
+    width: 200px;
+    height: 100px;
+}
+
+.album2{
+    position: absolute;
+    top: 1000px;
+    width: 200px;
+    height: 100px;
+}
+
+.album3{
+    position: absolute;
+    top: 1000px;
+    width: 200px;
+    height: 100px;
+}
+
+.album3{
+    position: absolute;
+    top: 1000px;
+    width: 200px;
+    height: 100px;
 }
