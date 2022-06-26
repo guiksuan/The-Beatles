@@ -4,7 +4,6 @@
     left: 0;
     top: 0;
     position:absolute;
-    background-color: #a53420;
 }
 
 .barra{
@@ -27,7 +26,7 @@
 .titulo{
     position: absolute;
     width: 850px;
-    left: 250px;
+    left: 320px;
     top: 20px;
     font-weight: 1000;
     font-family: 'Montserrat';
@@ -70,28 +69,32 @@
 
 .album1{
     position: absolute;
-    top: 1000px;
+    top: 300px;
+    left: 230px;
     width: 200px;
-    height: 100px;
+    height: 200px;
 }
 
 .album2{
     position: absolute;
-    top: 1000px;
+    top: 300px;
+    left: 530px;
     width: 200px;
-    height: 100px;
+    height: 200px;
 }
 
 .album3{
     position: absolute;
-    top: 1000px;
+    top: 300px;
+    left: 830px;
     width: 200px;
-    height: 100px;
+    height: 200px;
 }
 
-.album3{
+.album4{
     position: absolute;
-    top: 1000px;
+    top: 300px;
+    left: 1130px;
     width: 200px;
-    height: 100px;
+    height: 200px;
 }
