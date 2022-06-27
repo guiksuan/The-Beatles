@@ -201,7 +201,7 @@ a:visited{
 
 .texto8{
     position: absolute;
-    width: 10px;
+    width: 0px;
     left: 1200px;
     top: 280px;
     font-weight: 1000;
@@ -213,7 +213,7 @@ a:visited{
 
 .texto9{
     position: absolute;
-    width: 10px;
+    width: 0px;
     left: 1210px;
     top: 510px;
     font-weight: 1000;
